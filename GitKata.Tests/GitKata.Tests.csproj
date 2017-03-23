@@ -48,6 +48,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BEST_TEST_EVAR.cs" />
     <Compile Include="ThisIsAnotherFile.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SillyFolder\TestyMcTestFace.cs" />

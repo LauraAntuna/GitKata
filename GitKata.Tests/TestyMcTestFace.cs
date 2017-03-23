@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace GitKata.Tests
 {
-    class TestyMcTestFace
+    public class TestyMcTestFace
     {
+        public int Splurge()
+        {
+            return 123456789;
+        }
     }
 }
